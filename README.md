@@ -43,3 +43,7 @@ _When added: they will appear here._
 1. Download the top_30_themes.xlsx file.
 2. Review the sheet with grouped themes.
 3. Explore individual categories to understand how questions were clustered.
+
+_Note: screenshots folder added — see /screenshots. Commit message: "Add screenshots for Top 30 Themes analysis"_
+
+
